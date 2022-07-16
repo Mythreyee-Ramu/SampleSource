@@ -1,0 +1,6 @@
+com\spirit\consumer\services\impl\UserServiceImpl.class
+com\spirit\consumer\ConsumerApplication.class
+com\spirit\consumer\models\UserDetails.class
+com\spirit\consumer\repository\UserRepository.class
+com\spirit\consumer\controller\UserController.class
+com\spirit\consumer\services\UserService.class
